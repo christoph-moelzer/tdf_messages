@@ -1,5 +1,5 @@
 # How to add the message to your package
-- copy the folder tdf_messages to the src folder in your catkin workspace
+- copy the folder tdf_messages to the src folder in your catkin workspace (make sure that the folder name is tdf_messages and not tdf_messages-main or something else)
 - cd to your catkin workspace
 ```
 catkin_make 
